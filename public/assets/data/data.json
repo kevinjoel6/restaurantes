@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "name":"pizzeria",
+        "description":"pizzeria francesa con 10 años de prcitcas",
+        "precio":20,
+        "valoracion":1,
+        "telefono":120120210,
+        "platos":["pizzeria 3 queso","pasta","anuel"],
+        "type":"pizzeria"
+    },
+    {
+        "id":"2",
+        "name":"kebab",
+        "description":"pizzeria francesa con 10 años de prcitcas",
+        "precio":10,
+        "valoracion":5,
+        "telefono":120120210,
+        "platos":["a","b","c"],
+        "type":"kebab"
+    },
+    {
+        "id":"3",
+        "name":"anuel",
+        "description":"pizzeria francesa con 10 años de prcitcas",
+        "precio":30,
+        "valoracion":10,
+        "telefono":120120210,
+        "platos":["a","b","c"],
+        "type":"anuel"
+    },
+    {
+        "id":"4",
+        "name":"chino",
+        "description":"pizzeria francesa con 10 años de prcitcas",
+        "precio":1201,
+        "valoracion":2,
+        "telefono":120120210,
+        "platos":["a","b","c"],
+        "type":"pizzeria"
+    }
+]
